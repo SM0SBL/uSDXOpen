@@ -1,4 +1,9 @@
 # uSDXOpen
+
+This is my copy oof GW8RDI's software to make sure I will always have access to it.
+If I make any valuable changes I will report back to the original author of this version of uSDX software.
+SM0SBL
+
 GW8RDI's Open firmware branch for all versions of the uSDX transceiver, built on original USDX open code.
 Branched from https://github.com/threeme3/usdx  Copyright 2019, 2020, 2021   Guido PE1NNZ <pe1nnz@amsat.org>
 Credits: Guido PE1NNZ, Dan Tayloe N7VE (http://norcalqrp.org/files/Tayloe_mixer_x3a.pdf), DL2MAN, and many others
