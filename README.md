@@ -1,6 +1,6 @@
 # uSDXOpen
 
-This is my copy oof GW8RDI's software to make sure I will always have access to it.
+This is my copy of GW8RDI's software to make sure I will always have access to it.
 If I make any valuable changes I will report back to the original author of this version of uSDX software.
 SM0SBL
 
